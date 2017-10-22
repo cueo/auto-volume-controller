@@ -1,0 +1,4 @@
+numpy
+pyobjc
+py-applescript
+pyaudio
